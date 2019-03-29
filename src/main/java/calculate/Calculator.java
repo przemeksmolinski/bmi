@@ -1,6 +1,6 @@
 package calculate;
 
 public interface Calculator {
-    String calculate();
+    double calculate();
     String interpret();
 }
